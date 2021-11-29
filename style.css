@@ -1,49 +1,50 @@
-body{
-    margin: 0;
-    background: rgb(179, 169, 169);
-    text-align: center;
+body {
+  margin: 0;
+  background: rgb(179, 169, 169);
+  text-align: center;
 }
 
 header {
-    background: white;
-    margin-top: 0;
+  background: white;
+  margin-top: 0;
 }
 
 #title {
-    font-weight: bold;
-    font: size 2em;
-    margin-top: 0;
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 0;
 }
 
 ul {
-    list-style: none;
-    text-align: left;
-    margin-left: 25%;
-    margin-right: 25%;
+  list-style: none;
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 li {
-    padding: 10px;
+  padding: 10px;
 }
 
 strong {
-    margin-right: 15px;
+  margin-right: 15px;
 }
 
 #tribute-info {
-    background-color: white;
+  background-color: white;
 }
 
 .quotation {
-    text-align: center;
-    margin-right: 25%;
-    margin-left: 25%;
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
 }
+
 .responsive {
-    width: 50%;
-    height: auto;
-  }
-  
+  width: 50%;
+  height: auto;
+}
+
 .footer {
-    background:white;
+  background: white;
 }
