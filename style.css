@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  background: rgb(179, 169, 169);
+  text-align: center;
+}
+
+header {
+  background: white;
+  margin-top: 0;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 2em;
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+li {
+  padding: 10px;
+}
+
+strong {
+  margin-right: 15px;
+}
+
+#tribute-info {
+  background-color: white;
+}
+
+.quotation {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+}
+
+.responsive {
+  width: 50%;
+  height: auto;
+}
+
+.footer {
+  background: white;
+}
